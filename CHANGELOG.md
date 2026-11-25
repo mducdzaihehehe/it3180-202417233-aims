@@ -6,6 +6,10 @@
 
 - Added cart sorting and category search.
 
+## [1.0.1] - 2026-11-25
+
+- Fixed case-insensitive title search.
+
 ## [1.0.0] - 2026-11-25
 
 - Added DVD search, cart display and percentage discounts.

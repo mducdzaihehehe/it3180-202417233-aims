@@ -32,3 +32,6 @@ class Cart:
             return
         for disc in self.items:
             print(disc)
+
+    def total_cost_with_discount(self, percent):
+        return self.total_cost() * percent / 100
